@@ -1,6 +1,6 @@
 {
   "name": "wolkenkit-box-postgres",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "wolkenkit-box-postgres is a PostgreSQL container for wolkenkit.",
   "contributors": [
     {
