@@ -1,0 +1,25 @@
+{
+  "name": "wolkenkit-box-postgres",
+  "version": "0.0.0",
+  "description": "wolkenkit-box-postgres is a PostgreSQL container for wolkenkit.",
+  "contributors": [
+    {
+      "name": "Golo Roden",
+      "email": "golo.roden@thenativeweb.io"
+    },
+    {
+      "name": "Matthias Wagler",
+      "email": "matthias.wagler@thenativeweb.io"
+    }
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "roboter": "0.15.2",
+    "roboter-server": "0.15.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thenativeweb/wolkenkit-box-postgres.git"
+  },
+  "license": "AGPL-3.0"
+}
